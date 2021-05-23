@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
+
+button{
+    width:100px;
+    height: 50px;
+}
+.stardust {
+    float: right;
+}
+
+.help-jotaro {
+    float: right;
+}
+.d-battle{
+    display: block;
+    margin-left: auto;
+  	margin-right: auto;
+}
+.run {
+    float: right;
+}
+.d-fight{
+    display: block;
+    margin-left: auto;
+  	margin-right: auto;
+}
+.d-keep-fighting{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+}
+.d-win{
+    display: block;
+    margin-left: auto;
+  	margin-right: auto;
+}
+.d-back{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+}
+.d-lose{
+    display: block;
+    margin-left: auto;
+  	margin-right: auto;
+}
+.d-lback{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+}
+
+.s-nohelp{
+    display: block;
+    margin-left: auto;
+  	margin-right: auto;
+}
+.s-back{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+}
